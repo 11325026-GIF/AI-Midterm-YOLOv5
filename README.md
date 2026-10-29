@@ -120,7 +120,7 @@ Google Drive     /   儲存相關檔案及成果
 
 ## 十、參考資料
 
-• CSDN 教學文章：Colab跑項目
+• CSDN 教學文章：Colab跑項目 https://www.oao.tw/ai-knowledge/google-colab-getting-started
 
 • YOLOv5 官方 GitHub：https://github.com/ultralytics/yolov5
 
