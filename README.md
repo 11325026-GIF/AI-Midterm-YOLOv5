@@ -99,7 +99,7 @@ Google Drive     /   儲存相關檔案及成果
 
 • 模型訓練過程
 
-![點此開啟 Google Colab 程式](https://colab.research.google.com/drive/你的NotebookID)
+![點此開啟 YOLOv5 期中報告程式](https://github.com/11325026-GIF/AI-Midterm-YOLOv5/blob/main/AI%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A_YOLOv5%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98.ipynb)
 
 • 模型訓練後的辨識成果(曲線圖)
 
